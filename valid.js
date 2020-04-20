@@ -1,0 +1,2 @@
+// Squeeze Api
+jQuery31105004819238032148_1587412450524({"valid":true})
